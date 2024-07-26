@@ -1,5 +1,6 @@
 # TreeAmazonApp
 
+
 # Libraries:
 
 @react-native-masked-view/masked-view": "^0.3.1",
@@ -16,3 +17,9 @@ react-native-screens": "^3.32.0",
 react-native-svg": "^15.4.0",
 react-native-swiper": "^1.6.0",
 react-native-vector-icons": "^10.1.0"
+
+
+<img
+      src="/amazonnn.gif"
+      alt="Yerel resim"
+    />
